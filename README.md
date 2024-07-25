@@ -33,17 +33,17 @@ The project implements three line drawing algorithms:
 ### Random Line Drawing
 When key 1, 2, or 3 are pressed, the program draws a random line of a specified color (red, green, or blue/purple) on the screen and marks the start and end points with yellow pixels.
 
-                    <img width="596" alt="1" src="https://github.com/user-attachments/assets/6c56eaf9-9225-4217-8900-b9c2b09412cc">
+  <img width="596" alt="1" src="https://github.com/user-attachments/assets/6c56eaf9-9225-4217-8900-b9c2b09412cc">
 
-<img width="593" alt="2" src="https://github.com/user-attachments/assets/524e193e-8008-41a5-9ab6-5b2a4e168ed3">
+  <img width="593" alt="2" src="https://github.com/user-attachments/assets/524e193e-8008-41a5-9ab6-5b2a4e168ed3">
 
-<img width="596" alt="3" src="https://github.com/user-attachments/assets/ea79e72f-6a74-4e54-895d-d42c2be80b22">
+  <img width="596" alt="3" src="https://github.com/user-attachments/assets/ea79e72f-6a74-4e54-895d-d42c2be80b22">
 
 
 ### Sky of Stars
 When key 4 is pressed, all lines are cleared, and the screen is filled with randomly placed white pixels, simulating a sky full of stars.
 
-<img width="596" alt="4" src="https://github.com/user-attachments/assets/e69677e0-cdf6-4134-a59e-6cb966cd3deb">
+   <img width="596" alt="4" src="https://github.com/user-attachments/assets/e69677e0-cdf6-4134-a59e-6cb966cd3deb">
 
 ### Handling User Input
 The `HandleInput` function captures keyboard input to draw lines or clear the screen based on the user's key presses.
