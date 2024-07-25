@@ -46,9 +46,12 @@ When key 4 is pressed, all lines are cleared, and the screen is filled with rand
    <img width="596" alt="4" src="https://github.com/user-attachments/assets/e69677e0-cdf6-4134-a59e-6cb966cd3deb">
 
 
-### Final Output
+### Final Output 
 
   <img width="599" alt="5" src="https://github.com/user-attachments/assets/f73372dd-23e8-404d-b89c-87b100b9ca03">
+
+https://github.com/user-attachments/assets/48517f9a-f6b5-4513-8bb7-ca90621c21b9
+
 
 
 ### Handling User Input
