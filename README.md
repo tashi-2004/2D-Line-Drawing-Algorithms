@@ -33,7 +33,7 @@ The project implements three line drawing algorithms:
 ### Random Line Drawing
 When key 1, 2, or 3 are pressed, the program draws a random line of a specified color (red, green, or blue/purple) on the screen and marks the start and end points with yellow pixels.
 
-<img width="596" alt="1" src="https://github.com/user-attachments/assets/6c56eaf9-9225-4217-8900-b9c2b09412cc">
+                    <img width="596" alt="1" src="https://github.com/user-attachments/assets/6c56eaf9-9225-4217-8900-b9c2b09412cc">
 
 <img width="593" alt="2" src="https://github.com/user-attachments/assets/524e193e-8008-41a5-9ab6-5b2a4e168ed3">
 
