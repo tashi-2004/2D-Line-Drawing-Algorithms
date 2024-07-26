@@ -71,7 +71,7 @@ To set up the SDL library in Visual Studio, follow the instructions provided in 
 ## Contributors
 
 - M.Tashfeen Abbasi
-- Laiba Mazhar
+- [Laiba Mazhar](https://github.com/laiba-mazhar)
 
 ## Contact
 
