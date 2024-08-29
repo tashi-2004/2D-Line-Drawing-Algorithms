@@ -10,8 +10,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Install SDL2 dependencies
-      run: sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
+    - name: Install dependencies from requirements.txt
+      run: |
+        while read -r line; do
+          eval "$line"
+        done < requirements.txt
 
     - name: Compile C++ code
       run: g++ -o output_file Algo.cpp -lSDL2
