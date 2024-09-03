@@ -62,13 +62,11 @@ The `HandleInput` function captures keyboard input to draw lines or clear the sc
 To set up the SDL library in Visual Studio, follow the instructions provided in this [YouTube tutorial](https://youtu.be/13AEnd8XB70?si=IXO8L4JBEZiY1018).
 
 ## How to Run
-
 1. Clone this repository.
 2. Set up SDL in your development environment.
 3. Compile and run `Algo.cpp`.
 
 ## Contributors
-
 - M.Tashfeen Abbasi
 - [Laiba Mazhar](https://github.com/laiba-mazhar)
 
